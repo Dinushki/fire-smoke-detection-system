@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE folders
+.qodo/
+.vscode/
+
+# Output files
+outputs/
+
+# Dataset (if large)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db

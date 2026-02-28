@@ -126,5 +126,15 @@ The system:
 
 This project is developed for academic purposes.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Dataset
+
+Dataset is not included in this repository due to size limitations.
+
+You can download the dataset from:
+[https://www.kaggle.com/code/ritupande/fire-and-smoke-detection-in-cctv-footage/input]
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 -Hasara Wijayarthna
+-Dinushki Amanda
